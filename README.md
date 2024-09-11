@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ecem Zavar</h1>
-<h3 align="center">Trainee at Google Yapay Zeka ve Teknoloji Akademisi 23' | UI Developer</h3>
+<h3 align="center">Trainee at Google Yapay Zeka ve Teknoloji Akademisi 23'</h3>
 
 - 📫 How to reach me **zavarecem@gmail.com**
 
