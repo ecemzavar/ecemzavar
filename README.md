@@ -1,27 +1,41 @@
-<!--
-## Hi there 👋
+<!-- README.md -->
+<div align="center">
 
-**ecemzavar/ecemzavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ecem  
 
-Here are some ideas to get you started:
+### *Building meaningful worlds with code, art & impact.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Ecem Zavar</h1>
-<h3 align="center">Trainee at Google Yapay Zeka ve Teknoloji Akademisi 23'</h3>
+🎮 Unity Developer | Creative Technologist | Social Impact Enthusiast  
 
-- 📫 How to reach me **zavarecem@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ecem-zavar-a10b64209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecem-zavar-a10b64209" height="30" width="40" /></a>
-<a href="https://medium.com/@ecemzavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ecemzavar" height="30" width="40" /></a>
-</p>
+</div>
+
+---
+
+### 🎮 What I’m Working On  
+- Developing an indie game in **Unity**, focused on creative mechanics and immersive atmosphere  
+- Designing a **women’s empowerment project** *(in progress)*  
+
+---
+
+### 💡 Focus  
+Exploring how technology can connect **creativity**, **empathy**, and **social awareness** — turning digital experiences into meaningful impact.  
+
+---
+
+### 🖋️ About Me  
+I’m passionate about **building experiences** that go beyond entertainment — exploring how games can inspire awareness, empathy, and change.  
+Every project I work on is a step toward combining **art, code, and human stories** in meaningful ways.  
+
+---
+
+<div align="center">
+
+📫 **Let’s connect and create something impactful.**  
+[LinkedIn](https://www.linkedin.com/in/ecem-zavar-a10b64209/) • [Medium](https://medium.com/@ecemzavar) • [Portfolio](#)
+
+</div>
 
