@@ -35,7 +35,7 @@ Every project I work on is a step toward combining **art, code, and human storie
 <div align="center">
 
 📫 **Let’s connect and create something impactful.**  
-[LinkedIn](https://www.linkedin.com/in/ecem-zavar-a10b64209/) • [Medium](https://medium.com/@ecemzavar) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ecem-zavar-a10b64209/) • [Medium](https://medium.com/@ecemzavar) 
 
 </div>
 
