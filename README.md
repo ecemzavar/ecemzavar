@@ -21,12 +21,12 @@
 ---
 
 ### 💡 Focus  
-Exploring how technology can connect **creativity**, **empathy**, and **social awareness** — turning digital experiences into meaningful impact.  
+Exploring how technology can connect **creativity**, **empathy**, and **social awareness** , turning digital experiences into meaningful impact.  
 
 ---
 
 ### 🖋️ About Me  
-I’m passionate about **building experiences** that go beyond entertainment — exploring how games can inspire awareness, empathy, and change.  
+I’m passionate about **building experiences** that go beyond entertainment , exploring how games can inspire awareness, empathy, and change.  
 Every project I work on is a step toward combining **art, code, and human stories** in meaningful ways.  
 
 ---
