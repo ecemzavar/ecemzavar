@@ -5,7 +5,7 @@
 
 ### *Building meaningful worlds with code, art & impact.*
 
-🎮 Unity Developer | Creative Technologist | Social Impact Enthusiast  
+🎮 Game Developer | Creative Technologist | Social Impact Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecem-zavar-a10b64209/)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ecemzavar)  
